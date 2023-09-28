@@ -4,6 +4,7 @@ function initialize(){
      button = document.getElementById("canthandlespice");
      text1 = document.getElementById("p1");
      text2 = document.getElementById("p2");
+     
      total = document.getElementById("p3");
 
 
